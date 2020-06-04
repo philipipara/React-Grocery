@@ -2,6 +2,7 @@
 Created a grocery list App to practice working on using hooks. Some of the hooks can be reused in other projects
 that use input and localstorage.
 
+Deployed: https://wonderful-goldstine-3efc82.netlify.app/
 
 
 
