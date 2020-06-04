@@ -1,3 +1,13 @@
+
+Created a grocery list App to practice working on using hooks. Some of the hooks can be reused in other projects
+that use input and localstorage.
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
